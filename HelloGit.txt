@@ -1,2 +1,2 @@
-Hello Git
-How are you?
+Hello Git!
+How are you? I hope you don't run into too many conflicts. 
